@@ -1,0 +1,87 @@
+.navbar{
+	width:1500px;
+	height:100px;
+	
+
+}
+.content{
+	
+	text-align:right;
+	padding-top:10px;
+	padding-right:180px;
+	color:blue;
+	
+}
+
+.first{
+	margin-top:20px;
+}
+.second{
+	background-color:red;
+	float:right;
+	margin-bottom:300px;
+}
+
+	
+.slide1{
+	width:1336px;
+	height:800px;
+	
+}
+
+.navitem{
+	style:none;
+}
+.glymphicon{
+	float: right;
+	text-align:right;
+}
+
+.panel{
+
+height:20px;
+width:50px;
+}
+
+
+ #today{
+            height:150px;
+            width:100%;
+            padding-top:25px;
+        }
+
+        .paragraph1{
+            font-size: 15px;
+            text-align: center;
+            color:white;
+            margin-bottom:15px;
+        }
+
+        .paragraph2{
+            font-size: 25px;
+            text-align: center;
+            color:white;
+            margin-bottom:15px;
+        }
+
+        /*.href1{
+            text-align: center;
+
+        }*/
+
+
+        #div1{
+            margin-left:40px;
+        }
+                
+
+
+		
+		.container1{
+			margin:100px;
+		}
+		
+		#navsize{
+			height:40px;
+		}
+		
